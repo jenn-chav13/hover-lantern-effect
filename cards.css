@@ -93,4 +93,5 @@ in a cleaner way.*/
     width: calc(100% - 2px);
     position: relative;
     z-index: 2;
+    -webkit-tap-highlight-color: transparent;
 }
